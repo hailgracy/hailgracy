@@ -61,19 +61,19 @@ r=true"/>
 # GitHub Streak
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+user=hailgracy&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 # Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+username=hailgracy&theme=tokyo-night"/>
 </p>
 ---
 # GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
+username=hailgracy&theme=tokyonight&no-frame=true&margin-
 w=10"/>
 </p>
 ---
@@ -103,7 +103,7 @@ Cory House
 ---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+username=hailgracy&label=Profile+Views&color=0e75b6&style=fla
 t"/>
 </p>
 ---
